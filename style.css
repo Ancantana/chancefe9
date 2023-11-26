@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#myCanvas {
+  border: 2px solid #000;  /* Style the canvas with the specified id */
+}
